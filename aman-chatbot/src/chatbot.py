@@ -10,3 +10,4 @@ class ChatBot:
             return f"{welcome_message}\n{main_sections}"
         else:
             return get_response(user_input)
+            #كسم الراجل
